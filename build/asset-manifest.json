@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5b527c9.css",
+    "main.js": "/static/js/main.aefabb4b.js",
+    "static/media/Omni.png": "/static/media/Omni.97709f3694711f3d6a49.png",
+    "static/media/cartoonized_2.png": "/static/media/cartoonized_2.f169d701fbede87c5060.png",
+    "static/media/Stars.png": "/static/media/Stars.9ab266459a9438155a11.png",
+    "static/media/cartoonize_01 .JPG": "/static/media/cartoonize_01 .3c19ec0e00e5d3bc6a47.JPG",
+    "static/media/layered-peaks-haikei.svg": "/static/media/layered-peaks-haikei.61cf7bed90ef31d1c844b8d691230b28.svg",
+    "index.html": "/index.html",
+    "static/media/blob-haikei.svg": "/static/media/blob-haikei.d8e652501e89b493e32376df5290522f.svg",
+    "main.d5b527c9.css.map": "/static/css/main.d5b527c9.css.map",
+    "main.aefabb4b.js.map": "/static/js/main.aefabb4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5b527c9.css",
+    "static/js/main.aefabb4b.js"
+  ]
+}
